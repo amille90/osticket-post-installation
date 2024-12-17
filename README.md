@@ -3,7 +3,12 @@
 </p>
 
 <h1>osTicket - Post Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial explains how to configure various compartments within the osTicket VM software application to withhold a functional ticketing system. These compartments include roles, departments, teams, deskagents, admins, back-end users, SLA'S and help topics. It also gives a scope of the agent panel vs. the admin. panel within osTicket.
+
+
+
+
+<br />
 
 
 <h2>Video Demonstration</h2>
