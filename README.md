@@ -324,7 +324,7 @@ Step 37:
 <img src="https://i.imgur.com/wkTeNs4.png"/>
 </p>
 <p>
-Under the permissions tab for users make sure all boxes are chexked off.
+Under the permissions tab for users make sure all boxes are checked off.
 </p>
 <br />
 Step 38:
@@ -332,7 +332,7 @@ Step 38:
 <img src="https://i.imgur.com/uo2KRhs.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For assigned teams select level 1 support. Click on the saved changes button.
 </p>
 <br />
 Step 39:
@@ -340,15 +340,15 @@ Step 39:
 <img src="https://i.imgur.com/hvo4bXJ.png"/>
 </p>
 <p>
-For assigned teams select level 1 support. Click on the saved changes button. John has been successfully added as an agent.
+Stay within admin panel and click on agents.
 </p>
 <br />
 Step 40:
-<p>
+<p
 <img src="https://i.imgur.com/In8LCvd.png"/>
 </p>
 <p>
-Stay within the admin panel and click on agents and then click on Jane Doe's name. 
+Click on Jane Doe's name. 
 </p>
 <br />
 Step 41:
