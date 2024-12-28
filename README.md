@@ -606,7 +606,7 @@ Step 64: Under the Help Topic Information tab, type in Personal Computer Issues 
 
 </p>
 <br />
-Step 65: Go back to the mangae tab and click on add users again
+Step 65: Go back to the manage tab and click on Add New Help Topic again.
 </p>
 <p>
 <img src="https://i.imgur.com/cfuzLR7.png"/>
