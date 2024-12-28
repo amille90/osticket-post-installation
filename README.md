@@ -418,7 +418,7 @@ Step 43: Create and insert a password for Jane.
 
 </p>
 <br />
-Step 44: Uncheck require a password change and the click update. 
+Step 44: Uncheck require a password change and then click update. 
 </p>
 <p>
 <img src="https://i.imgur.com/eZswmEe.png"/>
