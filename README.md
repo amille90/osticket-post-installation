@@ -660,7 +660,7 @@ Step 70: For name type in Password reset and for Parent Topic click on Report a 
 
 </p>
 <br />
-Step 71: Go back to Manage again and click on Add topic.
+Step 71: Go back to Manage again and click on Add New Help topic.
 </p>
 <p>
 <img src="https://i.imgur.com/Mre5GBR.png"/>
@@ -679,8 +679,8 @@ Step 72: For name type in Other and for Parent Topic select General Inquiry. Cli
 </p>
 <br />
 Step 73: Five Help Topics have been created so far to efficiently catergorize tickets within the ticket cycle of OsTicket. 
-
-This here concludes the configuration of the different functional compartments of osTicket ticketing system.
+</p>
+This here concludes the configuration of the various functional compartments of osTicket ticketing system.
 </p>
 <p>
 <img src="https://i.imgur.com/TQY9buz.png"/>
