@@ -525,7 +525,7 @@ Step 55: Next, click on the green add new SLA Plan button.
 <p>
 </p>
 <br />
-Step 56: On this next screen type in Sev-A for name, 1 hour for grace period and 24/7 for schedules. Click on add plan.
+Step 56: On this next screen type in Sev-A for name, 1 hour for grace period and 24/7 for schedule. Click on add plan.
 </p>
 <p>
 <img src="https://i.imgur.com/N3xTXrw.png"/>
