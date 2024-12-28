@@ -49,7 +49,7 @@ Step 2: Make sure to press start to turn the osTicket Virtual Machine on.
 
 </p>
 <br />
-Step 3: Next, log into the osTicket and connect. 
+Step 3: Next, log into the osTicket-vm remote desktop and connect. 
 </p>
 <p>
 <img src="https://i.imgur.com/AzZ8XJt.png"/>
