@@ -561,7 +561,7 @@ Step 59: Sev-B SLA plan has been successfully added. Click on Add New SLA Plan o
 
 </p>
 <br />
-Step 60: For name type in Sev-C, for grace period 8 hours and for schedule click on business hourse which turn out to be Monday-Friday 8am-5pm with U.S. Holidays. Click Add plan. 
+Step 60: For name type in Sev-C, for grace period 8 hours and for schedule click on business hours which turn out to be Monday-Friday 8am-5pm with U.S. Holidays. Click Add plan. 
 </p>
 <p>
 <img src="https://i.imgur.com/81UDtyM.png"/>
