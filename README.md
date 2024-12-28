@@ -463,7 +463,7 @@ Step 48: Click on the green add user button.
 
 </p>
 <br />
-Step 49: For email address type in karen@(insert fake email address). Full name is Karen the press add user. 
+Step 49: For email address type in karen@(insert fake email address). Full name is Karen then press add user. 
 </p>
 <p>
 <img src="https://i.imgur.com/fPsqCDK.png"/>
