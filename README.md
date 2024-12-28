@@ -445,7 +445,7 @@ Step 46: Next go within the agent panel by clicking on Agent Panel in upper righ
 
 </p>
 <br />
-Step 47: Notice it say 'Admin Panel in the upp right hand side instead of 'Agent Panel. This means you are now operating from the agent panel. In the next few steps back-end users will now be added to osTicket. Click on Users. 
+Step 47: Notice it says 'Admin Panel' in the upper right hand side instead of 'Agent Panel'. This means you are now operating from the agent panel. In the next few steps back-end users will now be added to osTicket. Click on Users. 
 </p>
 <p>
 <img src="https://i.imgur.com/2incyHs.png"/>
