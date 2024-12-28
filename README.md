@@ -615,7 +615,7 @@ Step 65: Go back to the manage tab and click on Add New Help Topic again.
 
 </p>
 <br />
-Step 66: For the next help topic type in Buisness Critical Outage and for Parent Topic select Reprt a Problem. Click Add Topic.
+Step 66: For the next help topic type in Buisness Critical Outage and for Parent Topic select Report a Problem. Click Add Topic.
 </p>
 <p>
 <img src="https://i.imgur.com/czjK3oF.png"/>
@@ -633,7 +633,7 @@ Step 67: Go back to manage and add another help topic by clicking on Add New Hel
 
 </p>
 <br />
-Step 68: For Topc type in Equipment Request and for Parent Topic select General Inquiry. Click Add topic.
+Step 68: For topic type in Equipment Request and for Parent Topic select General Inquiry. Click Add topic.
 </p>
 <p>
 <img src="https://i.imgur.com/y2U6yaH.png"/>
@@ -651,7 +651,7 @@ Step 69: Go back to manage and click on Add New Help Topic.
 
 </p>
 <br />
-Step 70: For name type in Password reset and for Paren Topic click on Report a Problem. Press Add Topic.
+Step 70: For name type in Password reset and for Parent Topic click on Report a Problem. Press Add Topic.
 </p>
 <p>
 <img src="https://i.imgur.com/jLUgg6A.png"/>
